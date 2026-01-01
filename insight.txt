@@ -1,0 +1,10 @@
+🔍 Key Insights
+    1. Most high-risk transactions happen during night hours.
+    2. New accounts performing high-value transactions are riskier.
+    3. International transactions show higher fraud probability
+
+💡 Recommendations
+    1.Add OTP or manual verification for night transactions.
+    2. Apply stricter checks for new accounts (<30 days).
+    3. Monitor international high-value transactions closely.
+    
