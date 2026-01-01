@@ -1,0 +1,8 @@
+transaction_id,customer_id,amount,risk_score,risk_level
+T001,C001,1200,0,Low Risk
+T002,C002,55000,3,High Risk
+T003,C003,25000,3,High Risk
+T004,C004,800,0,Low Risk
+T005,C002,60000,3,High Risk
+T006,C005,15000,1,Medium Risk
+T007,C006,900,0,Low Risk

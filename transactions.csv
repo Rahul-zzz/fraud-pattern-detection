@@ -1,0 +1,8 @@
+transaction_id,customer_id,amount,transaction_time,transaction_date,location,is_international,account_age_days
+T001,C001,1200,14:30,2024-01-01,Chennai,No,400
+T002,C002,55000,02:10,2024-01-02,Mumbai,No,15
+T003,C003,25000,01:45,2024-01-02,Bangalore,Yes,20
+T004,C004,800,18:00,2024-01-03,Delhi,No,300
+T005,C002,60000,03:30,2024-01-04,Mumbai,No,15
+T006,C005,15000,23:50,2024-01-04,Kolkata,Yes,200
+T007,C006,900,11:00,2024-01-05,Hyderabad,No,5
